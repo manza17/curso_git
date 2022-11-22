@@ -8,3 +8,6 @@ emocional. Ella es la que me impulsa a aprender y avanzar diariamente.
 Además vivo con ellos. Penélope quien es mi novia, Tango mi perro de 5 años y moscú (el bebé de la casa)
 con 1 añito y 7 meses.
 
+Estoy en el working directory
+Simplemente lo saque del area de staging
+Ahora lo voy a avolver agregar
